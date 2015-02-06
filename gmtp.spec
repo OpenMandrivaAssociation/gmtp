@@ -1,7 +1,7 @@
 Summary:	Simple MTP Client
 Name:		gmtp
 Version:	1.3.7
-Release:	1
+Release:	2
 License:	BSD
 Group:		Sound
 Url:		http://gmtp.sourceforge.net/
