@@ -4,7 +4,7 @@ Version:	1.3.7
 Release:	2
 License:	BSD
 Group:		Sound
-Url:		http://gmtp.sourceforge.net/
+Url:		https://gmtp.sourceforge.net/
 Source0:	http://download.sourceforge.net/gmtp/%{name}-%{version}.tar.gz
 BuildRequires:	pkgconfig(flac)
 BuildRequires:	pkgconfig(gtk+-3.0)
