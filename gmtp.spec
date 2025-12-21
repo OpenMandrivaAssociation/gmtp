@@ -6,6 +6,11 @@ License:	BSD
 Group:		Sound
 Url:		https://gmtp.sourceforge.net/
 Source0:	http://download.sourceforge.net/gmtp/%{name}-%{version}.tar.gz
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	pkgconfig(flac)
 BuildRequires:	pkgconfig(gtk+-3.0)
 BuildRequires:	pkgconfig(id3tag)
